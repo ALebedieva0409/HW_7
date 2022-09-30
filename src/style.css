@@ -77,3 +77,7 @@ a {
 .weather-forecast-temperatures {
   font-size: 12px;
 }
+.col-2 {
+  white-space: nowrap;
+  display: inline-block;
+}
